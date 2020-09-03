@@ -34,3 +34,7 @@ git init
 git remote add origin "https://github.com/amolbd1987/Git-Commands.git"
 git pull origin master
 git push origin master
+
+git RESET HEAD filename  =>to unstage changes
+git RESET HEAD~  =>to unstage all changes
+
