@@ -43,6 +43,8 @@ git branch -m develop mybranch  =>Rename Branch
 git branch -d develop  =>Delete Branch
 git branch -a => list all branch
 
+merging branch
 
-
+git checkout master
+git merge develop   => merging develop into master
 
