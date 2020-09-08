@@ -47,4 +47,5 @@ merging branch
 
 git checkout master
 git merge develop   => merging develop into master
+git merge develop -m "commit massage" 
 
