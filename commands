@@ -38,3 +38,7 @@ git push origin master
 git RESET HEAD filename  =>to unstage changes
 git RESET HEAD~  =>to unstage all changes
 
+git branch -m develop mybranch  =>Rename Branch
+git branch -d develop  =>Delete Branch
+
+
