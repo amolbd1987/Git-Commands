@@ -17,6 +17,7 @@ git config --global user.email "useremailid"
 9. modify the file and commit again
  git log 
  git log --author="amol.bandal"
+ git log --oneline --decorate
  
  Git workflow
  1. Working area
@@ -40,5 +41,8 @@ git RESET HEAD~  =>to unstage all changes
 
 git branch -m develop mybranch  =>Rename Branch
 git branch -d develop  =>Delete Branch
+git branch -a => list all branch
+
+
 
 
