@@ -49,3 +49,8 @@ git checkout master
 git merge develop   => merging develop into master
 git merge develop -m "commit massage" 
 
+git stash => to save uncomiited changes
+git stash list => to list stashed changes
+git stash apply => to merge stashed changes in working directory
+git stash drop => to drop stashed changes
+
