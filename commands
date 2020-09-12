@@ -53,4 +53,7 @@ git stash => to save uncomiited changes
 git stash list => to list stashed changes
 git stash apply => to merge stashed changes in working directory
 git stash drop => to drop stashed changes
+git stash -u => to stash untracked files
+git stash -a => to stash all files (including .ingore)
+git stash pop => will add stashed changes LIFO manner
 
